@@ -1,0 +1,17 @@
+Partlist
+
+Exported from TG-16.brd at 10/13/2021 4:13 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package                   Library       Position (mm)         Orientation
+
+LED                     CHIPLED_1206              adafruit      (24.05 18.24)         R0
+R1       84             R1206                     adafruit      (20.05 20.24)         R270
+R2       47k            R1206                     adafruit      (58 10)               R270
+R3       47k            R1206                     adafruit      (58 16)               R90
+U1       ESP32DEVKITC   ESP32-DEVKITC             ESP32-DEVKITC (31.17 14.24)         MR180
+U2       SN74AHCT125N   DIP794W45P254L1969H508Q14 SN74AHCT125N  (48.75 14.5)          R180
+U3       SN74AHCT125N   DIP794W45P254L1969H508Q14 SN74AHCT125N  (36.25 14.25)         R180

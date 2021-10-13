@@ -1,0 +1,13 @@
+Partlist
+
+Exported from GC.sch at 10/13/2021 4:22 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device          Package       Library       Sheet
+
+LED                     LEDCHIPLED_1206 CHIPLED_1206  adafruit      1
+R1       84             R-US_R1206      R1206         adafruit      1
+U1       ESP32DEVKITC   ESP32DEVKITC    ESP32-DEVKITC ESP32-DEVKITC 1
