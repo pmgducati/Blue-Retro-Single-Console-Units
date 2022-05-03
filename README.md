@@ -1,6 +1,6 @@
 # Blue-Retro-Single-Console-Units
 
-This is a collection of PCBs that I made to work with darthcloud's BlueRetro Project. (https://github.com/darthcloud/BlueRetro) The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
+This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] Project. The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
 
 Currently I have NES, Nintendo 64, Gamecube, Sega Saturn, 3DO, PSX/PS2 and PCEngine/Turbografx 16 complete.
 
@@ -9,4 +9,11 @@ I have created PCB's for other supported systems (Listed Below) but have not tes
 I am working through Virtual Boy but need to find a cost efficient way to connect it to the Virtual Boy as I am not consolizing mine.
 
 Here is the current status of all systems:
-![image](https://user-images.githubusercontent.com/20894227/166346379-80091a03-0587-4573-b64a-cd41d2820dc9.png)
+
+![Status]
+
+
+<!----------------------------------------------------------------------------->
+
+[BlueRetro]: https://github.com/darthcloud/BlueRetro
+[Status]: https://user-images.githubusercontent.com/20894227/166346379-80091a03-0587-4573-b64a-cd41d2820dc9.png
