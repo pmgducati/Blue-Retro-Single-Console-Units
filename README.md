@@ -44,10 +44,10 @@ Here is the current status of all systems:
 
 [BlueRetro]: https://github.com/darthcloud/BlueRetro
 
-[Gerbers]: Gerbers
+[Gerbers]: Source/Gerbers
 [Status]: Documentation/Status.md
 [Tools]: Tools
-[BOM]: BOM
-[CAD]: CAD
-[PCB]: PCB
-[STL]: STL
+[BOM]: Documentation/BOM
+[CAD]: Source/CAD
+[PCB]: Source/PCB
+[STL]: Source/STL
