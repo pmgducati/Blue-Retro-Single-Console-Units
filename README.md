@@ -2,6 +2,8 @@
 
 This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] Project. The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
 
+<div align = center>
+
 ---
 
 [<kbd> <br> Status <br> </kbd>][Status] 
@@ -14,7 +16,21 @@ This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] P
 
 ---
 
-Currently I have NES, Nintendo 64, Gamecube, Sega Saturn, 3DO, PSX/PS2 and PCEngine/Turbografx 16 complete.
+</div>
+
+<br>
+
+## Completed Systems
+
+- `PCEngine / Turbografx 16`
+- `Nintendo 64`
+- `Sega Saturn`
+- `PSX / PS2`
+- `Gamecube`
+- `3DO`
+- `NES`
+
+<br>
 
 I have created PCB's for other supported systems (Listed Below) but have not tested them as I do not have the sytems. I have created a issue for each of the systems that I do not have to test. If you make one please comment in the related issue on any progress/problems.
 
