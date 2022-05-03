@@ -1,6 +1,8 @@
 # Blue Retro - Single Console Units
 
-This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] Project. The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
+*A collection of PCBs I made to work with darthcloud's [BlueRetro] Project.*
+
+<br>
 
 <div align = center>
 
@@ -32,12 +34,15 @@ This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] P
 
 <br>
 
-I have created PCB's for other supported systems (Listed Below) but have not tested them as I do not have the sytems. I have created a issue for each of the systems that I do not have to test. If you make one please comment in the related issue on any progress/problems.
+The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
 
-I am working through Virtual Boy but need to find a cost efficient way to connect it to the Virtual Boy as I am not consolizing mine.
+I have created PCBs for other supported systems but have not tested them as I do not have the systems.
 
-Here is the current status of all systems:
+I have created an issue for each of the systems that I do not have available for testing.
 
+If you make one please comment in the related issue on any progress / problems.
+
+I am working on Virtual Boy but need to find a cost efficient way to connect it as I am not going to convert mine.
 
 
 <!----------------------------------------------------------------------------->
