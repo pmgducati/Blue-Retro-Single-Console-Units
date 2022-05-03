@@ -1,6 +1,18 @@
-# Blue-Retro-Single-Console-Units
+# Blue Retro - Single Console Units
 
 This is a collection of PCBs that I made to work with darthcloud's [BlueRetro] Project. The PCB's were created in Eagle and I have included the Gerbers if you would like to create them yourself.
+
+---
+
+[<kbd> <br> Status <br> </kbd>][Status] 
+[<kbd> <br> BOM <br> </kbd>][BOM] 
+[<kbd> <br> CAD <br> </kbd>][CAD] 
+[<kbd> <br> Gerbers <br> </kbd>][Gerbers] 
+[<kbd> <br> PCB <br> </kbd>][PCB] 
+[<kbd> <br> STL <br> </kbd>][STL] 
+[<kbd> <br> Tools <br> </kbd>][Tools]
+
+---
 
 Currently I have NES, Nintendo 64, Gamecube, Sega Saturn, 3DO, PSX/PS2 and PCEngine/Turbografx 16 complete.
 
@@ -10,46 +22,16 @@ I am working through Virtual Boy but need to find a cost efficient way to connec
 
 Here is the current status of all systems:
 
-## Status
-
-*Last updated : ` 05 / 02 / 2022`*
-
-| System | PCB <br> Design | Housing <br> CAD | Function <br> Test |
-|:------:|:----------:|:-----------:|:---------------:|
-| Parallel 1P OD <br> *( NeoGeo SuperGun JAMMA )* 
-| Parallel 1P PP <br> *( NeoGeo SuperGun JAMMA )*
-| Parallel 2P OD <br> *( Atari 2600 )* | ✅
-| Parallel 2P OD <br> *( SG-1000 / SMS )*
-| Parallel 2P PP <br> *( Atari 2600 )* | ✅
-| Parallel 2P PP <br> *( SG-1000 )*
-| Atari 7800
-| Famicom | ✅
-| NES <br> *( NTSC )* | ✅
-| NES <br> *( PAL )* | ✅
-| PCEngine | ✅
-| TurboGrafx-16 | ✅ | ✅ | ✅
-| Genesis
-| Megadrive
-| Genesis - Multitap
-| Megadrive - Multitap
-| Super Famicom
-| SNES <br> *( NTSC )*
-| SNES <br> *( PAL )*
-| CD-i | ✅
-| 3DO | ✅ | ✅ | ✅
-| Jaguar
-| PSX | ✅
-| PS2 | ✅
-| Saturn
-| PC-FX | ✅
-| JVS
-| Virtual Boy
-| Nintendo 64 | ✅
-| Dreamcast | ✅
-| Gamecube | ✅ | ✅ | ✅
 
 
 <!----------------------------------------------------------------------------->
 
 [BlueRetro]: https://github.com/darthcloud/BlueRetro
-[Status]: https://user-images.githubusercontent.com/20894227/166346379-80091a03-0587-4573-b64a-cd41d2820dc9.png
+
+[Gerbers]: Gerbers
+[Status]: Documentation/Status.md
+[Tools]: Tools
+[BOM]: BOM
+[CAD]: CAD
+[PCB]: PCB
+[STL]: STL
