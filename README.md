@@ -1,13 +1,14 @@
 
-# Blue Retro - Single Console Units
-
-*A collection of PCBs I made to work with darthcloud's [BlueRetro] Project.*
-
-<br>
-<br>
-<br>
-
 <div align = center>
+
+# **Blue Retro** <br> <sub>Single Console Units</sub>
+
+*A collection of PCBs I made to work* <br>
+*with darthcloud's [BlueRetro] Project.*
+
+<br>
+<br>
+<br>
 
 [![Button Status]][Status]   
 [![Button BOM]][BOM]   
