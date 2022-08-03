@@ -1,6 +1,8 @@
-## Status
+# Status
 
 *Last updated : ` 05 / 02 / 2022`*
+
+<br>
 
 <div align = center>
 
@@ -39,3 +41,5 @@
 | Gamecube | ✅ | ✅ | ✅
 
 </div>
+
+<br>
