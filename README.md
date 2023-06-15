@@ -9,4 +9,4 @@ I have created PCB's for other supported systems (Listed Below) but have not tes
 I am working through Virtual Boy but need to find a cost efficient way to connect it to the Virtual Boy as I am not consolizing mine.
 
 Here is the current status of all systems:
-![image](https://user-images.githubusercontent.com/20894227/166346379-80091a03-0587-4573-b64a-cd41d2820dc9.png)
+![image](https://github.com/pmgducati/Blue-Retro-Single-Console-Units/assets/20894227/88af1ac1-3fff-4331-8cf6-94a9c6e2e3ee)
