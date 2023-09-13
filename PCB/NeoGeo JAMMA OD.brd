@@ -157,7 +157,7 @@
 </layers>
 <board>
 <plain>
-<text x="28.5" y="34" size="1.27" layer="21">v1.0 8/28/23</text>
+<text x="28.5" y="34" size="1.27" layer="21">v2.0 9/13/23</text>
 <text x="27" y="35.5" size="1.778" layer="21" rot="R180">NeoGeo OD</text>
 <hole x="4" y="4" drill="4"/>
 <hole x="4" y="36.5" drill="4"/>
